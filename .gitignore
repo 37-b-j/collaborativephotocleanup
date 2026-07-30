@@ -1,0 +1,34 @@
+# Dependencies
+js/node_modules/
+vendor/
+
+# Build output (Vite nested)
+js/collaborativephotocleanup/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.bak.*
+*~
+
+# Composer
+composer.lock
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+
+# Temp
+/tmp/
